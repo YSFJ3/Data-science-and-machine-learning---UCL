@@ -10,7 +10,7 @@
 
 ## practicalMixGauss_Apples_Final_check
 
-•	In this project a classifier is created from scratch to find apple and non-apple pixels in images using a micture of gaussians. 
+•	In this project a classifier is created from scratch to find apple and non-apple pixels in images using a mixture of gaussians. 
 
 ## Homographies
 
